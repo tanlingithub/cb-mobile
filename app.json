@@ -1,0 +1,19 @@
+{
+  "appKey": "VcwDWdbVdkvR9O0SICPrNYPUqf3DIsOA",
+  "appSecret": "15pvpIVbHCQsVN9KwsWDIz3X71wh1NvF",
+  "projectId": "df2de34fc546668a898a9b268f9a0878",
+  "id": 479,
+  "name": "cb-mobile",
+  "framework": "vue",
+  "platform": "mobile",
+  "description": "测试卡宾移动端",
+  "git": {
+    "url": "https://github.com/tanlingithub/cb-mobile.git",
+    "isPrivate": 0,
+    "username": "3082902468@qq.com",
+    "password": "hSva/eZ3zPFcmHeaeKlKtgJFmOhWrENvLxxqrPwihKyXBWof66oQYryO2lb3CkwknCOxIdsKop/fHdlyTnYeMA=="
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}

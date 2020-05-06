@@ -1,0 +1,16 @@
+{
+	"name": "kabin-mobile",
+	"version": "1.0.0",
+	"title": "卡宾移动端",
+	"description": "",
+	"type": "template",
+	"platform": [
+		"MOBILE"
+	],
+	"homePage": "/materials/24/dist154cd44b26e386762a04422606d4ed4d/index.html",
+	"category": "商城",
+	"screenshot": "/screenshots/154cd44b26e386762a04422606d4ed4d.png",
+	"path": "templates/KabinMobile",
+	"origin": "http://gitlab.deepexi.top/deepexi/deepexi-serverless/serverless-material.git",
+	"hash": "6fd7c70852bded0636f1b16aabbeda6d"
+}
